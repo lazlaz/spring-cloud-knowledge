@@ -3,7 +3,7 @@ Implementation-Title: service-feign
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: laz
 Implementation-Vendor-Id: com.laz
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_60
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring-cloud-knowledge/service-feign
 Created-By: Maven Integration for Eclipse

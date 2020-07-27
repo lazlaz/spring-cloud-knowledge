@@ -3,7 +3,7 @@ Implementation-Title: service-ribbon
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: laz
 Implementation-Vendor-Id: com.laz
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_60
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring-cloud-knowledge/service-ribbon
 Created-By: Maven Integration for Eclipse
